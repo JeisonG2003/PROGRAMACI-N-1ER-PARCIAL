@@ -1,2 +1,1 @@
-Tarea de la semana 13
-La actividad realizada en la semana 13 tuvo como propósito fortalecer los conocimientos adquiridos, permitiendo aplicar lo aprendido en la práctica mediante el análisis de temperaturas por ciudad. Esto facilitó la comprensión de conceptos clave y fomentó el desarrollo de habilidades para interpretar datos climáticos de manera precisa.
+Durante las semanas de clase, he practicado el uso de funciones y cálculos básicos en Python, lo que me ha permitido comprender cómo aplicar conceptos como parámetros, valores predeterminados y retorno de resultados. Utilizando PyCharm.
