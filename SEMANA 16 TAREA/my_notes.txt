@@ -1,0 +1,7 @@
+Autor: Jeison Teobaldo García Arreaga.
+Curso: 1er Programación (E).
+Tarea: Trabajo con Archivos de Texto en Python.
+
+Python es un lenguaje poderoso y fácil de aprender, que permite a los programadores crear soluciones eficientes para una amplia variedad de problemas, desde simples scripts hasta aplicaciones complejas.
+Manipular archivos de texto facilita el almacenamiento de información, permitiendo guardar y recuperar datos de manera estructurada y accesible para otros procesos o usuarios.
+La constancia en la práctica fortalece las habilidades de programación, pues la repetición y la resolución de nuevos problemas ayuda a consolidar los conocimientos adquiridos.
